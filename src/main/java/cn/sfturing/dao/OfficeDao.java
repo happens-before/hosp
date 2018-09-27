@@ -8,12 +8,7 @@ import org.apache.ibatis.annotations.Param;
 import cn.sfturing.entity.Hospital;
 import cn.sfturing.entity.Office;
 
-/**
- * 
- * @author sfturing
- *
- * @date 2017年5月23日
- */
+
 public interface OfficeDao {
 
 	// 通过医院名称查询

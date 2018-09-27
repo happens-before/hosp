@@ -18,12 +18,7 @@ import cn.sfturing.service.DoctorService;
 import cn.sfturing.service.HospitalService;
 import cn.sfturing.utils.PageUtils;
 
-/**
- * 
- * @author sfturing
- *
- * @date 2017年5月31日
- */
+
 @Controller
 public class DoctorController {
 	@Autowired

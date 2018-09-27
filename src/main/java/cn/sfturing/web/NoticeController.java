@@ -13,12 +13,7 @@ import cn.sfturing.entity.Notice;
 import cn.sfturing.service.NoticeService;
 import cn.sfturing.utils.PageUtils;
 
-/**
- * 
- * @author sfturing
- *
- * @date 2017年6月2日
- */
+
 @Controller
 public class NoticeController {
 

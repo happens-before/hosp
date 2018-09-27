@@ -4,12 +4,7 @@ import java.util.List;
 
 import org.apache.ibatis.annotations.Param;
 
-/**
- * 
- * @author sfturing
- *
- * @date 2017年5月19日
- */
+
 import cn.sfturing.entity.Area;
 
 public interface AreaDao {

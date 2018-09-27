@@ -11,12 +11,7 @@ import cn.sfturing.entity.Favourite;
 import cn.sfturing.entity.Hospital;
 import cn.sfturing.service.HospitalService;
 
-/**
- * 
- * @author sfturing
- *
- * @date 2017年5月19日
- */
+
 @Service
 public class HospitalServiceImpl implements HospitalService {
 

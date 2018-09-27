@@ -18,12 +18,7 @@ import cn.sfturing.utils.GetIP;
 import cn.sfturing.utils.MD5;
 import cn.sfturing.utils.MailUtil;
 
-/**
- * 
- * @author sfturing
- *
- * @date 2017年5月6日
- */
+
 @Service
 public class CommonUserServiceImpl implements CommonUserService {
 

@@ -5,12 +5,7 @@ import java.util.List;
 import org.apache.ibatis.annotations.Param;
 
 import cn.sfturing.entity.CommonUser;
-/**
- * 
- * @author sfturing
- *
- * @date 2017年5月6日
- */
+
 public interface CommonUserDao {
 	/************************ 用户查找 ********************/
 	// 通过id查找用户

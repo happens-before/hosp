@@ -1,10 +1,5 @@
 package cn.sfturing.entity;
-/**
- * 
- * @author sfturing
- *
- * @date 2017年5月23日
- */
+
 public class Office {
 	//科室id
 	private int id;

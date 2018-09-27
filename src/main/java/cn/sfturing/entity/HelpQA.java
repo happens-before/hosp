@@ -1,11 +1,6 @@
 package cn.sfturing.entity;
 
-/**
- * 
- * @author sfturing
- *
- * @date 2017年6月2日
- */
+
 public class HelpQA {
 	// id
 	private int id;

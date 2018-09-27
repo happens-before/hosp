@@ -1,12 +1,7 @@
 package cn.sfturing.entity;
 
 import java.sql.Timestamp;
-/**
- * 
- * @author sfturing
- *
- * @date 2017年5月22日
- */
+
 public class OrderRecords {
 	//预约id
 	private int id;

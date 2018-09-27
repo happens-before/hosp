@@ -1,10 +1,5 @@
 package cn.sfturing.entity;
-/**
- * 
- * @author sfturing
- *
- * @date 2017年5月19日
- */
+
 public class Area {
 	//城市id
 	private int id;

@@ -4,12 +4,7 @@ import javax.servlet.http.HttpServletRequest;
 
 
 import cn.sfturing.entity.CommonUser;
-/**
- * 
- * @author sfturing
- *
- * @date 2017年5月6日
- */
+
 public interface CommonUserService {
 	/**
 	 * 用户登录，根据身份证号进行登录

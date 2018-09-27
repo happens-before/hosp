@@ -22,12 +22,7 @@ import cn.sfturing.service.CommonUserService;
 import cn.sfturing.service.HospitalService;
 import cn.sfturing.service.OrderRecordsService;
 
-/**
- * 
- * @author sfturing
- *
- * @date 2017年6月2日
- */
+
 @Controller
 public class OrderController {
 

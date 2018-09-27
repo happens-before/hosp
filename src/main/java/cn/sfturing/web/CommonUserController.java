@@ -26,12 +26,7 @@ import cn.sfturing.service.HospitalService;
 import cn.sfturing.service.OrderRecordsService;
 
 
-/**
- * 
- * @author sfturing
- *
- * @date 2017年5月6日
- */
+
 @Controller
 public class CommonUserController {
 	@Autowired

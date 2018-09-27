@@ -16,12 +16,7 @@ import cn.sfturing.dao.FeedBackDao;
 import cn.sfturing.entity.FeedBack;
 import cn.sfturing.entity.HelpQA;
 import cn.sfturing.service.HelpQAService;
-/**
- * 
- * @author sfturing
- *
- * @date 2017年6月1日
- */
+
 @Controller
 public class HelpController {
 	@Autowired

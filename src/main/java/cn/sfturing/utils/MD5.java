@@ -3,11 +3,7 @@ package cn.sfturing.utils;
 import java.security.MessageDigest;
 
 import org.junit.Test;
-/**
- * 
- * @author sfturing
- *
- */
+
 public class MD5 {
 
 	/**

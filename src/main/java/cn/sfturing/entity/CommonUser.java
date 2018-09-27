@@ -3,12 +3,7 @@ package cn.sfturing.entity;
 import java.sql.Timestamp;
 
 
-/**
- * 
- * @author sfturing
- *
- * @date 2017年4月28日
- */
+
 public class CommonUser {
 	//userid
 	private int userId;

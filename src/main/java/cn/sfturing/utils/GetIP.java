@@ -1,12 +1,7 @@
 package cn.sfturing.utils;
 
 import javax.servlet.http.HttpServletRequest;
-/**
- * 
- * @author sfturing
- *
- * @date 2017年5月2日
- */
+
 public class GetIP {
 	/**
 	 * 获取登录用户IP地址

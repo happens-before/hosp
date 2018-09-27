@@ -9,12 +9,7 @@ import cn.sfturing.entity.Favourite;
 import cn.sfturing.entity.Hospital;
 
 
-/**
- * 
- * @author sfturing
- *
- * @date 2017年5月19日
- */
+
 public interface HospitalDao {
 	// 通过医院id查询医院
 	public Hospital findHosById(int id);
